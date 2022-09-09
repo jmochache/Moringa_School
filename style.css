@@ -2,9 +2,8 @@
         width: 190px;
         border-radius: 170px;
         background-color: blue;
-        float: center;
-        
-      }
+        float: center;}
+
       p {
         font-style: italic;
         font-size: 100%;
@@ -14,14 +13,3 @@
       }
       body {
         background-color: blanchedalmond;
-      }
-      div {
-        float: right;
-      }
-      h3 {
-        color: black;
-        font-family: "Times New Roman", Times, serif;
-      }
-      #Linkedin {
-        width: 20px;
-      }
