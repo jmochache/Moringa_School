@@ -6,32 +6,31 @@
 
 ## Description
 
-This is a project about the biography of Nyangweso Mochache, the purpose and usage of the project is to state more information on Nyangweso's hobbies, skills. This project is my first assignment for week one, where i will extensively explain the list of projects that I have been creating using vs code, git bash and pushing to Github for collaboration.
+This is my first coding project, i seek to exhibit the skills i have gained from week one of studying software engineering at Moringa School.
 
 ## Setup/Installation Requirements
 
-- You will learn on my background infomation, skills, hobbies, job experience etc.
-- Just click on the hyperlinks that will direct you to view Github projects.
-
+No set up required, code writen using HTML and CSS
 
 ## Known Bugs
 
 There are no known bugs on this project.
 
 ## Technologies Used
-
-Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
+HTML
+CSS
+GIT BASH
+GIT
 
 ## Support and contact details
 
-If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: josphatmochache@gmail.com to make a contribution to the code or for any assistance on the app/project.
+For Credits and more information, reach contact me through josphatmochache@gmail.com
 
-### License
-
-_The License used is GPL_
+### Live Link
 
 https://jmochache.github.io/Moringa_School/
 
+### License
 Copyright (c) 2022 **Nyangweso Mochache**
 
 
