@@ -23,3 +23,13 @@ footer
 span {
   color: white;
 }
+#H1 {
+color: gold;
+background-color: black;
+width: 150px;
+height: 20px;
+}
+#H2
+{
+  float: left;
+}
