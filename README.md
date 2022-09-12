@@ -17,6 +17,7 @@ No set up required, code writen using HTML and CSS
 There are no known bugs on this project.
 
 ## Technologies Used
+
 HTML
 CSS
 GIT BASH
@@ -31,6 +32,5 @@ For Credits and more information, reach contact me through josphatmochache@gmail
 https://jmochache.github.io/Moringa_School/
 
 ### License
+
 Copyright (c) 2022 **Nyangweso Mochache**
-
-
